@@ -4,7 +4,6 @@
 
 **Aspiring IT Service Planner** · ITM @ SeoulTech
 
-
 <br>
 
 <!-- ─────────────── 2열 배너 (맨 위, 테두리 없음) ─────────────── -->
