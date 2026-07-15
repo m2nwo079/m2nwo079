@@ -1,0 +1,126 @@
+
+Career · HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Career File — Min-woo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600;700&family=Poppins:wght@700&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    --bg:#0a0a0a; --ink:#e8e8e8; --amber:#ffc440; --green:#1db954; --cyan:#5cc8ff;
+    --line:rgba(255,255,255,.14);
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--bg); color:var(--ink);
+    font-family:'IBM Plex Mono',ui-monospace,monospace;
+    min-height:100vh; display:flex; align-items:center; justify-content:center;
+    padding:32px 16px;
+  }
+  body::before{
+    content:""; position:fixed; inset:0; pointer-events:none; z-index:9;
+    background:repeating-linear-gradient(to bottom,rgba(255,255,255,.05) 0 1px,transparent 1px 5px);
+    mix-blend-mode:overlay;
+  }
+  .card{
+    width:100%; max-width:860px; position:relative;
+    background:#0d0d0d; border:2px solid var(--ink); border-radius:16px;
+    padding:34px 32px 30px; box-shadow:0 0 0 1px #000,0 0 40px rgba(255,255,255,.06);
+    animation:flick 6s infinite steps(60);
+  }
+  @keyframes flick{0%,97%,100%{opacity:1;}98%{opacity:.94;}99%{opacity:.98;}}
+  .kicker{font-size:14px;letter-spacing:.32em;color:var(--amber);text-align:center;}
+  h1{
+    font-family:'Poppins',sans-serif; font-weight:700; text-align:center;
+    margin:6px 0 2px; font-size:clamp(30px,6vw,46px); letter-spacing:.04em;
+    color:var(--amber);
+  }
+  .rule{height:1px;background:var(--line);margin:18px 0 22px;}
+  .crests{display:flex;gap:40px;justify-content:center;align-items:flex-end;flex-wrap:wrap;margin-bottom:6px;}
+  .crest{text-align:center;}
+  .crest img{height:100px;width:auto;display:block;}
+  .crest span{display:block;margin-top:8px;font-size:12px;color:#9aa0a6;}
+  .lead{color:#9aa0a6;font-size:13px;text-align:center;margin:22px 0 18px;}
+  .lead .cursor{color:var(--green);animation:blink 1s steps(2) infinite;}
+  @keyframes blink{50%{opacity:0;}}
+ 
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:26px 34px;}
+  .col-head{
+    font-size:12px;letter-spacing:.22em;color:var(--amber);
+    border-bottom:1px solid var(--line);padding-bottom:8px;margin-bottom:6px;
+  }
+  .item{padding:12px 0;border-bottom:1px dashed rgba(255,255,255,.10);}
+  .item:last-child{border-bottom:none;}
+  .item .title{font-weight:600;font-size:15px;line-height:1.45;}
+  .item .title .m{margin-right:8px;}
+  .item .desc{color:#8b9096;font-size:13px;margin-top:5px;padding-left:26px;line-height:1.5;}
+  .item .desc::before{content:"\21b3 ";color:#5c6166;}
+ 
+  .note{color:#6b7176;font-size:11px;text-align:center;margin-top:24px;}
+  .center{text-align:center;}
+  .back{
+    display:inline-block;margin-top:22px;text-decoration:none;
+    color:var(--ink);border:2px solid var(--ink);border-radius:8px;
+    padding:9px 16px;font-size:13px;letter-spacing:.06em;transition:.15s;
+  }
+  .back:hover{background:var(--ink);color:#0d0d0d;}
+ 
+  @media (max-width:640px){ .grid{grid-template-columns:1fr;} }
+</style>
+</head>
+<body>
+  <main class="card">
+    <h1>&#9733; Career File</h1>
+    <div class="rule"></div>
+ 
+    <div class="crests">
+      <div class="crest">
+        <img src="assets/yangsan_crest.png" alt="Yangsan High School" />
+        <span>Yangsan High School</span>
+      </div>
+      <div class="crest">
+        <img src="assets/div3_mark.png" alt="ROK Army 3rd Infantry Division" />
+        <span>3rd Infantry Division (White Skull)</span>
+      </div>
+    </div>
+ 
+    <div class="grid">
+      <div>
+        <div class="col-head">SCHOOL RECORD</div>
+        <div class="item">
+          <div class="title"><span class="m">&#127891;</span>Dae-Yangsan, Gen 79</div>
+        </div>
+        <div class="item">
+          <div class="title"><span class="m">&#129351;</span>Student Discipline Dept: Deputy &rarr; Chief</div>
+          <div class="desc">On the front line against smoking &amp; school violence</div>
+        </div>
+        <div class="item">
+          <div class="title"><span class="m">&#128293;</span>Captain of Cheonseongjae</div>
+          <div class="desc">President of the furnace of human reforging</div>
+        </div>
+      </div>
+ 
+      <div>
+        <div class="col-head">SERVICE &amp; ENGINEERING</div>
+        <div class="item">
+          <div class="title"><span class="m">&#129354;</span>Sergeant, ROK Army 3rd Infantry Division &mdash; Full Discharge</div>
+          <div class="desc">Now a 1st-year reservist</div>
+        </div>
+        <div class="item">
+          <div class="title"><span class="m">&#128295;</span>The Best Engineer (self- &amp; peer-certified)</div>
+          <div class="desc">Deuce-and-a-half specialist</div>
+        </div>
+      </div>
+    </div>
+ 
+    <div class="center">
+      <a class="back" href="https://github.com/m2nwo079">&larr; BACK TO PROFILE</a>
+    </div>
+  </main>
+</body>
+</html>
