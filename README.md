@@ -7,8 +7,7 @@
 
 <br>
 
-<!-- ─────────────── 3열 배너 (맨 위, 테두리 없음) ─────────────── -->
-<a href="https://m2nwo079.github.io/m2nwo079/career.html"><img src="assets/career_tile.gif" width="250" alt="Hall of Fame - career file" /></a>
+<!-- ─────────────── 2열 배너 (맨 위, 테두리 없음) ─────────────── -->
 <a href="https://www.youtube.com/watch?v=M3Qx6RP-n-Y"><img src="assets/movie_tile.gif" width="250" alt="Public Enemy Returns (2008) - negotiation scene" /></a>
 <a href="https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"><img src="assets/music_tile.gif" width="250" alt="Now playing" /></a>
 
