@@ -2,29 +2,16 @@
 
 # Welcome to My Github, I'm Lee Min-woo 👋
 
-**Aspiring IT Service Planner** · ITM @ SeoulTech
+**Aspiring IT Service Planner** · ITM @SeoulTech
 
 <br>
 
-<img src="assets/click_banner.svg" width="520" alt="Click Below for COOL Scene & Music" />
+<img src="assets/click_banner.svg" width="480" alt="Click Below for COOL Scene & Music" />
 
 <br>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=M3Qx6RP-n-Y"><b>Public Enemy Returns (2008)</b></a><br><br>
-      <a href="https://www.youtube.com/watch?v=M3Qx6RP-n-Y"><img src="assets/movie_tile.gif" width="250" alt="Film projector" /></a>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"><b>System Seoul - YOU</b></a><br><br>
-      <a href="https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"><img src="assets/music_tile.gif" width="250" alt="DJ turntable" /></a>
-    </td>
-  </tr>
-</table>
 
 <!-- ─────────────── 2열 배너 (맨 위, 테두리 없음) ─────────────── -->
-<a href="https://www.youtube.com/watch?v=M3Qx6RP-n-Y"><img src="assets/movie_tile.gif" width="250" alt="Public Enemy Returns (2008) - negotiation scene" /></a>
+<a href="https://www.youtube.com/watch?v=M3Qx6RP-n-Y"><img src="assets/movie_tile.gif" width="220" alt="Public Enemy Returns (2008) - negotiation scene" /></a>
 <a href="https://www.youtube.com/watch?v=TiOpGgCXeT0&list=RDTiOpGgCXeT0&start_radio=1"><img src="assets/music_tile.gif" width="250" alt="Now playing" /></a>
 
 </div>
@@ -45,7 +32,7 @@
 **📚 Learning**  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📓 Check out my works below
+## 📓 Click to Check out my works below ⤵️
 
 [![Portfolio](assets/portfolio_badge.gif)](https://happy-cello-62b.notion.site/388063887762804cbf64d14ba8c6540e?source=copy_link)
 
