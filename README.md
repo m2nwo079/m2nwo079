@@ -36,8 +36,6 @@
 
 [![Portfolio](assets/portfolio_badge.gif)](https://happy-cello-62b.notion.site/388063887762804cbf64d14ba8c6540e?source=copy_link)
 
----
-
 ## 🔗 Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m2nwo079)
