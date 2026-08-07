@@ -21,7 +21,7 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 ITM student at **Seoul National University of Science and Technology (SeoulTech)**
-- 🎯 Aspiring **IT Service Planner** — turning problems into structured, user-centered services
+- 🎯 Aspiring **IT Service Planner**
 - 📫 Reach me at **m2nwo079@g.seoultech.ac.kr**
 
 ## 🧰 Toolbox
