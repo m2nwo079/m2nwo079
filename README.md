@@ -18,6 +18,10 @@
 
 ---
 
+## 📓 Click to Check out my works below ⤵️
+
+[![Portfolio](assets/portfolio_badge.gif)](https://happy-cello-62b.notion.site/388063887762804cbf64d14ba8c6540e?source=copy_link)
+
 ## 🙋‍♂️ About Me
 
 - 🎓 ITM student at **Seoul National University of Science and Technology (SeoulTech)**
@@ -46,10 +50,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
-
-## 📓 Click to Check out my works below ⤵️
-
-[![Portfolio](assets/portfolio_badge.gif)](https://happy-cello-62b.notion.site/388063887762804cbf64d14ba8c6540e?source=copy_link)
 
 ## 🔗 Other links
 
