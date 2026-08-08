@@ -2,7 +2,7 @@
 
 # Welcome to My Github, I'm Lee Min-woo 👋
 
-**Aspiring IT Service Planner** · ITM @ SeoulTech (2023.02 ~)
+### **Aspiring IT Service Planner** · ITM @ SeoulTech (2023.02 ~)
 
 <br>
 
