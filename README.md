@@ -11,8 +11,8 @@
 <br>
 
 <!-- ─────────────── 2열 배너 (맨 위, 테두리 없음) ─────────────── -->
-<a href="https://youtu.be/hRzlbh4or3c?si=_9P_Dkqaott6dxZc"><img src="assets/movie_tile.gif" width="460"/></a>
-<a href="https://www.youtube.com/watch?v=TiOpGgCXeT0&list=RDTiOpGgCXeT0&start_radio=1"><img src="assets/music_tile.gif" width="240"/></a>
+<a href="https://youtu.be/glscfhJyZHo?si=DpmxWi-hr-Yd0nRL"><img src="assets/movie_tile.gif" width="460"/></a>
+<a href="https://youtu.be/hRzlbh4or3c?si=X78nooQHdWyozuuD"><img src="assets/music_tile.gif" width="240"/></a>
 
 </div>
 
