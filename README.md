@@ -12,7 +12,7 @@
 
 <!-- ─────────────── 2열 배너 (맨 위, 테두리 없음) ─────────────── -->
 <a href="https://youtu.be/glscfhJyZHo?si=DpmxWi-hr-Yd0nRL"><img src="assets/movie_tile.gif" width="460"/></a>
-<a href="https://youtu.be/hRzlbh4or3c?si=X78nooQHdWyozuuD"><img src="assets/music_tile.gif" width="240"/></a>
+<a href="https://youtu.be/AJluE9pTg6o?si=FVenURyYiiVRmwgW"><img src="assets/music_tile.gif" width="240"/></a>
 
 </div>
 
