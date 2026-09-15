@@ -19,7 +19,7 @@
 
 ## ⬇️ Click to check out my works below
 
-<a href="https://happy-cello-62b.notion.site/388063887762804cbf64d14ba8c6540e?source=copy_link">
+<a href="https://insightarchive.notion.site/Insight-Archive-388063887762804cbf64d14ba8c6540e?source=copy_link">
   <img src="assets/badge_glitch.gif" width="720" alt="Portfolio">
 </a>
 
